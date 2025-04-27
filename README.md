@@ -1,4 +1,4 @@
-# DATA-ANALYST-TASK-4
+**# TASK-4 - Dashboard Design**
 
 **📋 Task Overview**
 This task is part of the Data Analyst Internship program. The objective was to design an interactive and insightful dashboard for business stakeholders using a sales/financial dataset.
